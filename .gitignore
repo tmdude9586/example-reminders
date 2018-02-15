@@ -90,6 +90,7 @@ yarn-error.log*
 .idea/dictionaries
 
 # Sensitive or high-churn files:
+.idea
 .idea/**/dataSources/
 .idea/**/dataSources.ids
 .idea/**/dataSources.local.xml
